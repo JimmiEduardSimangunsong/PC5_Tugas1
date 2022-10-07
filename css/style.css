@@ -109,7 +109,7 @@ body{
     width: 100%;
     background: #a0ea9c;
     font-family: 'Dosis', sans-serif;
-    font-size: 5vh;
+    font-size: 4vh;
 }
 
 .readrest .readimage #read:hover{
@@ -173,7 +173,6 @@ body{
 
 }
 
-/*untuk layar device berukuran kecil*/
 @media (max-width:991px) {
     #hist1{
         font-size: 2vh;
